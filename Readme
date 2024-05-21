@@ -1,0 +1,11 @@
+# Bievenido a este CRUD ApiRest!
+
+Este CRUD ha sido creado en JAVA, con el uso de Spring boot, Hibernate, PostgreSQL (Docker).
+La temática de este proyecto está enfocada a productos de una tienda gamer, donde se toma en cuenta: el nombre del producto, descripción, marca y precio. 
+
+Por medio de Postman (el cual se utilizó como cliente) sirvió como apoyo para poder hacer uso del CRUD. 
+Dentro de Postman se hizo uso del POST (crear), GET (obtener todo), GET por Id (obtener por id), PUT (actualizar), DEL (borrar).
+
+Con el uso de TablePlus permitió hacer uso de esa conexión de base de datos (PostgreSQL), que ayudó a poder ver las tablas reflejadas interactuadas en Postman
+
+¡Saludos!
